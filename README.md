@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chaquentin
-- 👀 I’m interested in manga and nanoinformatique
+- 👀 I’m interested in manga and nanorobotic
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on nanocomputer
+- 💞️ I’m looking to collaborate on nanorobotic
 - 📫 How to reach me ...
 
 <!---
