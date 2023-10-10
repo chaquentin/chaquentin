@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaquentin
-- 👀 I’m interested in manga and nanorobotic
-- 🌱 I’m currently learning C language
+- 👀 I’m interested in bioinformatics
+- 🌱 I’m currently learning Nest Js
 - 💞️ I’m looking to collaborate on nanorobotic
 - 📫 How to reach me ...
 
